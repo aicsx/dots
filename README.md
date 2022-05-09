@@ -1,7 +1,6 @@
 # dots
 **basic, essential configurations**
 
-## content
 ### ax - weechat
 - super usable weechat conf
 ![weechat](https://raw.githubusercontent.com/aicsx/dots/main/screenshots/weechat/weechat.png)
