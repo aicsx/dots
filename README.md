@@ -1,5 +1,5 @@
 # dots
 **basic, essential configurations.**
 
+### content
 - weechat
-**It is my super usable weechat config with buflist, nicklist and highmoon**
